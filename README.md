@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Narendra Singh</h1>
-<h3 align="center">"Dedicated Algorithm Developer crafting innovative solutions. Proficient in optimizing algorithms for efficiency and performance. Committed to advancing technology through creative problem-solving. Let's code the future together!"</h3>
+<h3 align="center">"Passionate Backend Developer skilled in Python, Django, and REST Framework. I excel in data structures and algorithms, love writing clean, maintainable code, and enjoy creating innovative solutions to enhance user experiences!"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendra5305&label=Profile%20views&color=0e75b6&style=flat" alt="narendra5305" /> </p>
 
-- 🚀 I have learned **Python Programming Language, DSA , Problem Solving.**
+- 🚀 I have learned **Python Programming Language,Django , MongoDB , Mysql DSA , Problem Solving.**
 
-- 🤝 I’m looking for **opportunities as a Algorithm Developer**
+- 🤝 I’m looking for **opportunities as a Backend Developer**
 
 - 📧 Email - **narendrasinghsitu4@gmail.com**
 
