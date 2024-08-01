@@ -9,7 +9,7 @@
 
 - 📧 Email - **narendrasinghsitu4@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xxMQ-rp1bWO8haxa9_l9tciiJNs1R0Mz/view?usp=drive_link](https://drive.google.com/file/d/1xxMQ-rp1bWO8haxa9_l9tciiJNs1R0Mz/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HUueN98VJ8RGgnB1VBhCwCIAA_QrjpX-/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
