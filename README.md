@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendra5305&label=Profile%20views&color=0e75b6&style=flat" alt="narendra5305" /> </p>
 
-- 🚀 I have learned **Python Programming Language,Django , MongoDB , Mysql DSA , Problem Solving.**
+- 🚀 I have learned **Python Programming Language,Django , MongoDB , Mysql , DSA , Problem Solving.**
 
 - 🤝 I’m looking for **opportunities as a Backend Developer**
 
