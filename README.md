@@ -11,7 +11,7 @@
 - 💼 Full Stack Developer with hands-on experience in **React**, **Node.js**, **Express**, **MongoDB**, **Django**, and **REST APIs**  
 - 🧠 Strong foundation in **Data Structures & Algorithms** with excellent problem-solving skills  
 - 💡 I love building clean, maintainable, and scalable applications  
-- 🌱 Currently enhancing my knowledge in **Cloud Deployment** and **System Design**  
+- 🌱 Currently enhancing my knowledge in Django 
 - 📬 Email: **narendrasinghsitu4@gmail.com**  
 - 📄 [My Resume](https://drive.google.com/file/d/1HUueN98VJ8RGgnB1VBhCwCIAA_QrjpX-/view?usp=drive_link)  
 
@@ -20,7 +20,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/narendra-singh-b91b26205/" target="_blank">
+  <a href="https://www.linkedin.com/in/narendra-5305-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/@narendrasinghsi1" target="_blank">
