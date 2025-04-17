@@ -1,52 +1,75 @@
 <h1 align="center">Hi 👋, I'm Narendra Singh</h1>
-<h3 align="center">"Passionate Full Stack Developer skilled in React, Express, Node.js, MongoDB, Python, Django, and REST Framework. I excel in data structures and algorithms, love writing clean, maintainable code, and enjoy creating innovative solutions to enhance user experiences!"</h3>
+<h3 align="center">🚀 Passionate Full Stack Developer | MERN & Django Expert | Problem Solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=narendra5305&label=Profile%20views&color=0e75b6&style=flat" alt="narendra5305" /> </p>
-
-- 🚀 I have learned **Full Stack Web Development (React, Express, Node.js, MongoDB), Python Programming Language, Django, MySQL, DSA, Problem Solving.**
-
-- 🤝 I’m looking for **opportunities as a Full Stack or Backend Developer**
-
-- 📧 Email - **narendrasinghsitu4@gmail.com**
-
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1HUueN98VJ8RGgnB1VBhCwCIAA_QrjpX-/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/narendra-singh-b91b26205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@narendrasinghsi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/narendrasingh5305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=narendra5305&label=Profile%20views&color=27ae60&style=flat" alt="profile-views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🧑‍💻 About Me
+- 💼 Full Stack Developer with hands-on experience in **React**, **Node.js**, **Express**, **MongoDB**, **Django**, and **REST APIs**  
+- 🧠 Strong foundation in **Data Structures & Algorithms** with excellent problem-solving skills  
+- 💡 I love building clean, maintainable, and scalable applications  
+- 🌱 Currently enhancing my knowledge in **Cloud Deployment** and **System Design**  
+- 📬 Email: **narendrasinghsitu4@gmail.com**  
+- 📄 [My Resume](https://drive.google.com/file/d/1HUueN98VJ8RGgnB1VBhCwCIAA_QrjpX-/view?usp=drive_link)  
+
+---
+
+### 🌐 Connect with Me
+
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <a href="https://www.linkedin.com/in/narendra-singh-b91b26205/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
+  <a href="https://www.hackerrank.com/@narendrasinghsi1" target="_blank">
+    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <a href="https://leetcode.com/narendrasingh5305" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=narendra5305&show_icons=true&locale=en&layout=compact" alt="narendra5305" /></p>
+---
+
+### 🛠️ Tech Stack
+
+#### 🚀 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### 🌐 Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
+![REST API](https://img.shields.io/badge/-REST%20API-0052CC?style=for-the-badge)
+
+#### 🗃️ Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### ⚙️ Tools & Others
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=narendra5305&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendra5305&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### ✨ Let's Build Something Amazing Together!
+> *“The best way to predict the future is to create it.”* – Abraham Lincoln
