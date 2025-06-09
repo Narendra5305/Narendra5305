@@ -12,7 +12,7 @@
 - 🧠 Strong foundation in **Data Structures & Algorithms** with excellent problem-solving skills  
 - 💡 Passionate about building clean, maintainable, and scalable applications  
 - 📬 Email: **narendrasinghsitu4@gmail.com**  
-- 📄 [My Resume](https://drive.google.com/file/d/1HUueN98VJ8RGgnB1VBhCwCIAA_QrjpX-/view?usp=drive_link)  
+- 📄 [My Resume](https://drive.google.com/file/d/1VfVv97eHAUKAqTxY62xhuLg2XyK1yRmq/view?usp=drive_link)  
 
 ---
 
