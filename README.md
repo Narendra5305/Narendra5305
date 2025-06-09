@@ -44,7 +44,7 @@
 
 #### 💊 MediCart  
 **Tech Stack:** React, JSON, CSS  
-–Designed and developed a responsive e-commerce web application using React and custom CSS.
+– Designed and developed a responsive e-commerce web application using React and custom CSS.
 – Utilized local JSON files to simulate APIs and manage static product and category data.
 – Created modular and reusable React components to ensure clean architecture and maintainability.
 - 🔗 [Live Demo](https://one-mg.netlify.app)  
