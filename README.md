@@ -42,11 +42,11 @@
 - 🔗 [Live Demo](https://medicarewebsite01.netlify.app/)  
 - 💻 [Frontend Code](https://github.com/Narendra5305/mediCareStore) | [Backend Code](https://github.com/Narendra5305/mediCartBackend)
 
-#### 💊 MediCart (One MG Clone)  
+#### 💊 MediCart  
 **Tech Stack:** React, JSON, CSS  
-- Built a responsive clone of One MG using React and modular components.  
-- Simulated APIs with JSON for local data handling.  
-- Designed for clean UI/UX across all devices.  
+-Designed and developed a responsive e-commerce web application using React and custom CSS.
+– Utilized local JSON files to simulate APIs and manage static product and category data.
+– Created modular and reusable React components to ensure clean architecture and maintainability.
 - 🔗 [Live Demo](https://one-mg.netlify.app)  
 - 💻 [Source Code](https://github.com/Narendra5305/onemgclone)
 
