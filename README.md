@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narendra Singh</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer | MERN & Django Expert | Problem Solver</h3>
+<h3 align="center">🚀 Passionate Full Stack Developer | MERN Stack Expert | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=narendra5305&label=Profile%20views&color=27ae60&style=flat" alt="profile-views" />
@@ -8,10 +8,9 @@
 ---
 
 ### 🧑‍💻 About Me
-- 💼 Full Stack Developer with hands-on experience in **React**, **Node.js**, **Express**, **MongoDB**, **Django**, and **REST APIs**  
+- 💼 Full Stack Developer skilled in **React**, **Node.js**, **Express**, **MongoDB**, and **REST APIs**  
 - 🧠 Strong foundation in **Data Structures & Algorithms** with excellent problem-solving skills  
-- 💡 I love building clean, maintainable, and scalable applications  
-- 🌱 Currently enhancing my knowledge in Django 
+- 💡 Passionate about building clean, maintainable, and scalable applications  
 - 📬 Email: **narendrasinghsitu4@gmail.com**  
 - 📄 [My Resume](https://drive.google.com/file/d/1HUueN98VJ8RGgnB1VBhCwCIAA_QrjpX-/view?usp=drive_link)  
 
@@ -20,16 +19,44 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/narendra-5305-/" target="_blank">
+  <a href="https://www.linkedin.com/in/narendra-5305/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/@narendrasinghsi1" target="_blank">
-    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  <a href="https://github.com/Narendra5305" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/narendrasingh5305" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />
+  <a href="https://narendra-singh-developer.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-27AE60?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
+
+---
+
+### 💼 Projects
+
+#### 🏥 Medicare Store  
+**Tech Stack:** React, Node.js, Express.js, Redux Toolkit, MongoDB  
+- Full-stack e-commerce application inspired by Dermstore.  
+- Implemented secure user authentication, cart management, and product filtering.  
+- Used Redux Toolkit for global state management and React Router for navigation.  
+- 🔗 [Live Demo](https://medicarewebsite01.netlify.app/)  
+- 💻 [Frontend Code](https://github.com/Narendra5305/mediCareStore) | [Backend Code](https://github.com/Narendra5305/mediCartBackend)
+
+#### 💊 MediCart (One MG Clone)  
+**Tech Stack:** React, JSON, CSS  
+- Built a responsive clone of One MG using React and modular components.  
+- Simulated APIs with JSON for local data handling.  
+- Designed for clean UI/UX across all devices.  
+- 🔗 [Live Demo](https://one-mg.netlify.app)  
+- 💻 [Source Code](https://github.com/Narendra5305/onemgclone)
+
+#### 🧑‍💼 Portfolio Website  
+**Tech Stack:** React, CSS  
+- Personal portfolio showcasing skills, projects, and experience.  
+- Implemented smooth scrolling and mobile-responsive layout.  
+- Deployed on Netlify for easy access and fast performance.  
+- 🔗 [Live Website](https://narendra-singh-developer.netlify.app/)  
+- 💻 [Source Code](https://github.com/Narendra5305/newportfolio)
 
 ---
 
@@ -44,7 +71,6 @@
 #### 🌐 Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
 ![REST API](https://img.shields.io/badge/-REST%20API-0052CC?style=for-the-badge)
 
 #### 🗃️ Database
